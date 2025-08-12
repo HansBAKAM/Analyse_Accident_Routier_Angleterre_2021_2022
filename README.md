@@ -35,3 +35,5 @@ Le tableau de bord final offre une vision détaillée des accidents routiers, pe
 Ce projet contribue à la sécurité routière en identifiant les zones à risque et en mettant en lumière les facteurs contributifs aux accidents. Il offre également des perspectives sur les tendances émergentes et les schémas temporels, aidant ainsi à élaborer des politiques efficaces et démontrant ainsi la puissance des outils disponibles même dans des environnements traditionnels comme Excel.
 
 Compétences : Microsoft Excel, TCD, Data Viz et Gestion de projet
+
+Note: Le fichier Excel contenant le Dashboard ayant une capacité supérieure à celle autorisée pour un dépot de fichier sur git, a été illustré par une capture d'écran.
